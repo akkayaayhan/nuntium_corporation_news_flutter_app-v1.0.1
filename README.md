@@ -1,5 +1,5 @@
 
-# flutter_firebase_app
+# news_firebase_app
 ### Table of contents
 - [System requirements](#system-requirements)
 - [Figma design guidelines for better UI accuracy](#figma-design-guideline-for-better-accuracy)

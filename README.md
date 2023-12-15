@@ -17,8 +17,7 @@ Flutter SDK Version 3.3.0 or greater.
 
 ### Figma design guidelines for better UI accuracy
 
-Read our guidelines to increase the accuracy of design-to-code conversion by optimizing Figma designs.
-https://docs.dhiwise.com/docs/Designguidelines/intro
+
 
 ### Check the UI of the entire app
 
@@ -65,4 +64,4 @@ Resolve the errors and warnings that are shown in the application.
 
 ### Support
 
-If you have any problems or questions, go to our Discord channel, where we will help you as quickly as possible: https://discord.com/invite/rFMnCG5MZ7
+

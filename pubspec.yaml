@@ -1,0 +1,33 @@
+name: flutter_firebase_app
+description: A new Flutter project.
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.12.0 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  flutter_localizations: 
+    sdk: flutter
+  flutter_riverpod: ^2.1.3
+  connectivity_plus: ^2.3.6
+  shared_preferences: ^2.0.15
+  cached_network_image: ^3.2.1
+  flutter_svg: ^1.1.6
+  equatable: ^2.0.5
+  flutter_login_facebook: ^1.6.2
+  google_sign_in: ^5.0.7
+  pin_code_fields: ^7.3.0
+  carousel_slider: ^4.0.0
+  smooth_page_indicator: ^1.0.0+2
+  sms_autofill: ^2.0.0
+  dotted_border: 2.0.0+3
+  intl: ^0.18.0
+  dio: ^5.0.3
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+flutter: 
+  uses-material-design: true
+  assets: 
+    - assets/
+    - assets/images/
